@@ -18,7 +18,7 @@ input{
 }
 
 .container{
-    background-color: black;
+    background-color: rgb(48, 48, 48);
     display: inline-flex;
     padding: 1.5em;
     border-radius: 0.5em;
@@ -47,4 +47,6 @@ button:hover{
 textarea{
     width: 100%;
     margin-top: 2em;
+    text-align: center;
+    font-weight: bold;
 }
